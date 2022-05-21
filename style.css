@@ -1,0 +1,22 @@
+.hero-bg img{
+	height: 25rem !important;
+}
+nav a img{
+      width:1.5rem;     
+}
+.bg-blue-light{
+      background:#e3f2fd;
+}
+.active a:hover {
+    background-color: red;
+}
+  /* accordion style */
+  .logo-remov .accordion {
+      --bs-accordion-btn-icon:none;
+      --bs-accordion-btn-active-icon:none;
+    }
+    .scrollspy-example {
+      height: 200px;
+      margin-top: 0.5rem;
+      overflow: auto;
+  }
